@@ -9,8 +9,6 @@
 
 *Automated Real-Time Sentiment Classification System for Social Media Brand Monitoring*
 
-[Overview](#overview) • [Features](#features) • [Installation](#installation) • [Usage](#usage) • [Results](#results) • [Team](#team)
-
 </div>
 
 ---
