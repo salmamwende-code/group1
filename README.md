@@ -5,7 +5,6 @@
 [![Python](https://img.shields.io/badge/Python-3.8+-blue.svg)](https://www.python.org/downloads/)
 [![scikit-learn](https://img.shields.io/badge/scikit--learn-1.0+-orange.svg)](https://scikit-learn.org/)
 [![NLTK](https://img.shields.io/badge/NLTK-3.6+-green.svg)](https://www.nltk.org/)
-[![License](https://img.shields.io/badge/License-MIT-yellow.svg)](LICENSE)
 
 *Automated Real-Time Sentiment Classification System for Social Media Brand Monitoring*
 
@@ -27,6 +26,7 @@
 - [Project Structure](#project-structure)
 - [Technologies Used](#technologies-used)
 - [Contributors](#contributors)
+
 ---
 
 ## Overview
@@ -205,6 +205,9 @@ We implemented and evaluated **five distinct machine learning models**:
 
 ---
 
+## 📊 Main Notebook
+
+```
 jupyter notebook Main.ipynb
 ```
 
@@ -546,7 +549,6 @@ twitter-sentiment-analysis/
 │
 ├── requirements.txt                                  # Python dependencies
 ├── README.md                                         # This file
-├── LICENSE                                           # MIT License
 └── .gitignore                                        # Git ignore rules
 ```
 
@@ -577,38 +579,12 @@ twitter-sentiment-analysis/
 
 ## 👥 Contributors
 
-### Group 1 - Sentiment Analysis Team
-
-<table>
-<tr>
-<td align="center">
-<b>Muema Stephen</b><br>
-<sub>Data Scientist</sub><br>
-<a href="mailto:musyokas753@gmail.com">📧 musyokas753@gmail.com</a>
-</td>
-<td align="center">
-<b>Salma Mwende</b><br>
-<sub>ML Engineer</sub><br>
-<a href="mailto:salma.mwende@student.moringaschool.com">📧 salma.mwende@student.moringaschool.com</a>
-</td>
-<td align="center">
-<b>Grace Wangui</b><br>
-<sub>NLP Specialist</sub><br>
-<a href="mailto:gracewangui251@gmail.com">📧 gracewangui251@gmail.com</a>
-</td>
-</tr>
-</table>
-
-### Contributions
-
-All team members contributed equally to:
-- 📊 Data exploration and analysis
-- 🧹 Preprocessing pipeline development
-- 🤖 Model training and evaluation
-- 📝 Documentation and reporting
-- 🎨 Visualization creation
+**Muema Stephen** - musyokas753@gmail.com  
+**Salma Mwende** - salma.mwende@student.moringaschool.com  
+**Grace Wangui** - gracewangui251@gmail.com
 
 ---
+
 ## 🌟 Star This Repository!
 
 If you found this project helpful or interesting, please consider giving it a ⭐ on GitHub!
