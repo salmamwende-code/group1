@@ -20,8 +20,6 @@
 - [Dataset](#dataset)
 - [Methodology](#methodology)
 - [Features](#features)
-- [Installation](#installation)
-- [Usage](#usage)
 - [Model Performance](#model-performance)
 - [Results & Insights](#results--insights)
 - [Recommendations](#recommendations)
@@ -29,9 +27,6 @@
 - [Project Structure](#project-structure)
 - [Technologies Used](#technologies-used)
 - [Contributors](#contributors)
-- [License](#license)
-- [Acknowledgments](#acknowledgments)
-
 ---
 
 ## Overview
