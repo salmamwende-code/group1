@@ -527,7 +527,9 @@ twitter-sentiment-analysis/
 │
 ├── notebooks/
 │   ├── Main.ipynb                                    # Complete analysis workflow
-│   └── exploratory_analysis.ipynb                    # EDA scratch work
+│   └── Steve.ipynb                    
+│   └── Salma.ipynb
+│   └── Grace.ipynb
 │
 ├── src/
 │   ├── __init__.py
