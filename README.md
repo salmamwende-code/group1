@@ -522,36 +522,36 @@ Model Inference → PostgreSQL → Dashboard (Grafana)
 twitter-sentiment-analysis/
 │
 ├── data/
-│   ├── judge-1377884607_tweet_product_company.csv   # Raw dataset
-│   └── README.md                                     # Data documentation
+│ ├── judge-1377884607_tweet_product_company.csv # Raw dataset
+│ └── README.md # Data documentation
 │
 ├── notebooks/
-│   ├── Main.ipynb                                    # Complete analysis workflow
-│   └── Steve.ipynb                    
-│   └── Salma.ipynb
-│   └── Grace.ipynb
+│ ├── Main.ipynb # Complete analysis workflow
+│ ├── Steve.ipynb # Individual analysis (Steve)
+│ ├── Salma.ipynb # Individual analysis (Salma)
+│ └── Grace.ipynb # Individual analysis (Grace)
 │
 ├── src/
-│   ├── __init__.py
-│   ├── preprocessing.py                              # Text cleaning pipeline
-│   ├── feature_engineering.py                        # TF-IDF, n-grams
-│   ├── models.py                                     # Model training functions
-│   └── evaluation.py                                 # Metrics and visualization
+│ ├── init.py
+│ ├── preprocessing.py # Text cleaning pipeline
+│ ├── feature_engineering.py # TF-IDF, n-grams
+│ ├── models.py # Model training functions
+│ └── evaluation.py # Metrics and visualization
 │
 ├── models/
-│   ├── linear_svm_model.pkl                          # Trained Linear SVM
-│   ├── logistic_regression_model.pkl                 # Alternative model
-│   └── tfidf_vectorizer.pkl                          # Fitted vectorizer
+│ ├── linear_svm_model.pkl # Trained Linear SVM
+│ ├── logistic_regression_model.pkl # Alternative model
+│ └── tfidf_vectorizer.pkl # Fitted vectorizer
 │
 ├── visualizations/
-│   ├── confusion_matrix_svm.png
-│   ├── sentiment_distribution.png
-│   ├── model_comparison.png
-│   └── wordcloud_negative.png
+│ ├── confusion_matrix_svm.png
+│ ├── sentiment_distribution.png
+│ ├── model_comparison.png
+│ └── wordcloud_negative.png
 │
-├── requirements.txt                                  # Python dependencies
-├── README.md                                         # This file
-└── .gitignore                                        # Git ignore rules
+├── requirements.txt # Python dependencies
+├── README.md # Project documentation
+└── .gitignore # Git ignore rules                                     # Git ignore rules
 ```
 
 ---
